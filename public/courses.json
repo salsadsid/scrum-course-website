@@ -1,0 +1,30 @@
+[
+    {
+        "_id": "asdcd1234",
+        "name": "Learn SCRUM: The Complete Beginner Course",
+        "author": "Samay Jain, Ex-KPMG",
+        "rating": 4.5,
+        "img": "https://i.ibb.co/CpygKdy/Rectangle-5.png"
+    },
+    {
+        "_id": "asdcd1gfd234",
+        "name": "Learn SCRUM: The Complete Beginner Course",
+        "author": "Samay Jain, Ex-KPMG",
+        "rating": 4.5,
+        "img": "https://i.ibb.co/CpygKdy/Rectangle-5.png"
+    },
+    {
+        "_id": "asdcdsafd1234",
+        "name": "Learn SCRUM: The Complete Beginner Course",
+        "author": "Samay Jain, Ex-KPMG",
+        "rating": 4.5,
+        "img": "https://i.ibb.co/CpygKdy/Rectangle-5.png"
+    },
+    {
+        "_id": "asdcasfdd1234",
+        "name": "Learn SCRUM: The Complete Beginner Course",
+        "author": "Samay Jain, Ex-KPMG",
+        "rating": 4.5,
+        "img": "https://i.ibb.co/CpygKdy/Rectangle-5.png"
+    }
+]
