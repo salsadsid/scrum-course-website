@@ -1,0 +1,21 @@
+.gradient {
+    background: radial-gradient(#5F72BE, #9921E8);
+}
+
+.img2b {
+    position: absolute;
+    right: 470px;
+    top: 470px;
+}
+
+.img3b {
+    position: absolute;
+    right: 470px;
+    top: 270px;
+}
+
+.img4b {
+    position: absolute;
+    right: 370px;
+    top: 170px;
+}

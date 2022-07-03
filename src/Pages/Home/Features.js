@@ -38,9 +38,9 @@ const Features = () => {
                     </div>
                 </div>
                 <div className='flex-1'>
-                    <h1 class="text-5xl font-bold">Box Office News!</h1>
-                    <p class="py-6">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
-                    <button class="btn btn-primary">Get Started</button>
+                    <h1 class="text-5xl font-bold">Start learning with us right now!</h1>
+                    <p class="py-6">Choose from 100+ online video courses with new updates.</p>
+                    <button class="btn hover:bg-primary bg-base-200 w-3/4 rounded rounded-3xl text-xl text-primary hover:text-white border-4 border-primary hover:border-primary">ENROLL NOW</button>
                 </div>
             </div>
         </div>
