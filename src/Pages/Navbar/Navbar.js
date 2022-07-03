@@ -1,5 +1,5 @@
 import React from 'react';
-
+import img from '../../assets/img/healthicons_dhis2-logo-outline.png'
 const Navbar = () => {
     return (
         <div class="navbar text-white">
@@ -14,7 +14,7 @@ const Navbar = () => {
                         <li><a>Item 3</a></li>
                     </ul>
                 </div>
-                <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
+                <a class="btn btn-ghost normal-case text-xl"><img src={img} alt="" /> SCRUMVERSE</a>
             </div>
             <div class="navbar-center hidden lg:flex">
                 <ul class="menu menu-horizontal p-0">

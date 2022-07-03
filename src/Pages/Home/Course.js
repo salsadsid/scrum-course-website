@@ -3,7 +3,7 @@ import React from 'react';
 const Course = ({ course }) => {
     const { name, author, img, rating } = course
     return (
-        <div class="card bg-base-200 shadow-xl">
+        <div class="card bg-white shadow-xl">
             <figure className='w-100'><img className='w-full' src={img} alt="Shoes" /></figure>
             <div class="card-body">
                 <p>{name}</p>

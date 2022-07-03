@@ -7,7 +7,7 @@ import img5 from '../../assets/img/Vector.png'
 import './Features.css'
 const Features = () => {
     return (
-        <div class="hero min-h-screen bg-base-200">
+        <div class="hero min-h-screen bg-white">
             <div class="hero-content flex-col lg:flex-row-reverse">
                 <div className='grid grid-cols-2 flex-1'>
                     <div>
